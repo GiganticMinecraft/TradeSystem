@@ -17,7 +17,7 @@
     </properties>
 
     <build>
-        <finalName>TradeSystem_v${project.version}</finalName>
+        <finalName>TradeSystem</finalName>
 
         <plugins>
             <plugin>
